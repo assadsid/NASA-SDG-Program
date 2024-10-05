@@ -6,3 +6,4 @@ streamlit
 python-dotenv
 Pillow
 google-cloud
+streamlit_elements
